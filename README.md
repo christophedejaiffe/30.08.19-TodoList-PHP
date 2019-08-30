@@ -275,7 +275,7 @@ class TaskController extends Controller
 
 ## Le résultat en image :
 
-<img src="Exemple01.jpg" width="500"/>
+<img src="exemple01.jpg" width="500"/>
 
-<img src="Exemple02.jpg" width="500"/>
+<img src="exemple02.jpg" width="500"/>
 
