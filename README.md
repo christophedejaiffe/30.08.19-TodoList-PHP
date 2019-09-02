@@ -273,6 +273,10 @@ class TaskController extends Controller
 ```
 </details>
 
+## Deployer sur HEROKU :
+
+http://todolist-christophe.herokuapp.com/task
+
 ## Le résultat en image :
 
 <img src="exemple01.jpg" width="500"/>
